@@ -1,0 +1,9 @@
+{
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
