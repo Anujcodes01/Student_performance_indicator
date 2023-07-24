@@ -69,4 +69,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 - The dataset used in this project is from [Kaggle](https://www.kaggle.com/spscientist/students-performance-in-exams).
 
-Feel free to update the `README.md` file with more information about the project, any additional instructions, or the approach used for data preprocessing and model training. It's important to provide clear documentation so that others can easily understand and use your project.
