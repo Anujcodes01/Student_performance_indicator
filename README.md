@@ -3,8 +3,14 @@
 ## Overview
 This project aims to predict a student's math score based on various factors such as Gender, Race or Ethnicity, Parental Level of Education, Lunch Type, and Test Preparation Course. The prediction is done using a machine learning model trained on a dataset containing historical student data.
 
+
+https://github.com/Anujdh8755/Student_performance_indicator/assets/114329073/e648aee5-85b0-47c6-a228-5028740ccda5
+
+
+
+
 ## Prerequisites
-- Python (version 3.6 or higher)
+- Python (version 3.8 or higher)
 - Flask (version 1.1.2 or higher)
 - Pandas (version 1.0.3 or higher)
 - NumPy (version 1.18.4 or higher)
