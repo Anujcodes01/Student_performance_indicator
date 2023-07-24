@@ -8,14 +8,6 @@ https://github.com/Anujdh8755/Student_performance_indicator/assets/114329073/e64
 
 
 
-
-## Prerequisites
-- Python (version 3.8 or higher)
-- Flask (version 1.1.2 or higher)
-- Pandas (version 1.0.3 or higher)
-- NumPy (version 1.18.4 or higher)
-- Scikit-learn (version 0.23.1 or higher)
-
 ## Installation
 1. Clone the repository to your local machine.
 💿 Installing
